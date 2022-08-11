@@ -28,7 +28,6 @@ int main()
     matrice[0][0] = 10 ; // changer la valeur de la 1ere case (il faut etre sure que ça existe)
     
 
-    
 
     return 0;
 }
